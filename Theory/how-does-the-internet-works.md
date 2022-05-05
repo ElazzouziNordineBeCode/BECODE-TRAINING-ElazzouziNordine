@@ -1,4 +1,4 @@
-![Les ordinateur connecté au monde d'internet](/img/internet.png "Rpresentation d'internet")
+![Les ordinateur connecté au monde d'internet](img/internet.png "Rpresentation d'internet")
 
 ## Presentation du projet
 
