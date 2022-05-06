@@ -8,9 +8,10 @@
 - Instructeur : [Mike](https://github.com/Mike00001)
 - Contributeur : [Aaron](https://www.youtube.com/channel/UCo_81kKe5qkF0JVsUaJ6fYQ) - [Clideo](https://clideo.com/fr/cut-video) - [ezGIF](https://ezgif.com/)
 
+---------------------------------------------------------------------------------------
 
 ## Pourquoi se README ?
-Dans le cadre d'un exercice, fait au cours de ma formation pour devenir Fulle Stack Junior Developper, il nous a êtes demander d'exécuter plusieurs actions pour vérifier si on avait bien compris le fonctionnement du terminal, de Git ainsi que de GitHub. Cet exercice a également pour objectif de vérifier si nous avons correctement compris le fonctionnement du langage Markdown, pour être capable par la suite de pouvoir réaliser des README de qualité lorsqu'on travaillera sur de gros projets.
+__Dans le cadre d'un exercice__, fait au cours de ma formation pour devenir Fulle Stack Junior Developper, il nous a êtes demander d'exécuter plusieurs actions pour vérifier si on avait bien compris le fonctionnement du terminal, de Git ainsi que de GitHub. Cet exercice a également pour objectif de vérifier si nous avons correctement compris le fonctionnement du langage Markdown, pour être capable par la suite de pouvoir réaliser des README de qualité lorsqu'on travaillera sur de gros projets.
 
 Pour cela, j'ai regardé une courte [video](https://www.youtube.com/watch?v=7_LPdttKXPc) très bien réaliser en anglais par dans lequel il explique ce qu'es Internet. Je me suis donc basé sur cette vidéo pour créer ce README en appliquant tout ce que j'ai appris.
 
@@ -23,7 +24,7 @@ La plupart des gens pensent qu'Internet est un cloud sur lequel tout le monde se
 
 ![internet n'est pas un cloud.](img/a.gif "Cloud internet")
 
-Internet est un réseau filaire (fibre optique), satellitaire (antenne parabolique) ou sans fil (GSM - Tablette - Objet connecté) plein de câble qui parcourt le monde sur terre et dans le fond des mer pour connecter entre eux tous les continents, tous les pays, et tous les gens à travers le monde. Un simple câble qui connecte tout le monde.
+Internet est un réseau filaire (*fibre optique*), satellitaire (*antenne parabolique*) ou sans fil (*GSM - Tablette - Objet connecté*) plein de câble qui parcourt le monde sur terre et dans le fond des mer pour connecter entre eux tous les continents, tous les pays, et tous les gens à travers le monde. Un simple câble qui connecte tout le monde.
 
 ![internet c'est un cable.](img/b.gif "Cable internet")
 
@@ -64,9 +65,15 @@ C'est un numéro unique attribué de manière provisoire ou durable à un ordina
 
 Le problème, c'est que pour retenir le numéro attribué et qui est composer généralement de 10 chiffres, c'est assez compliquer. Le site web de Google par exemple, pour se connecter au réseau, utiliser un serveur qui a sa propre adresse IP. Jusqu'ici, pour vous rendre sur le site web de Google, vous deviez taper dans la barre de recherche [google.com](https://google.com). En réalité la vrai adresse de google.com c'est : 142.250.184.238
 
+Ceci est un bout de code informatique pour affiquer le nom de dommaine  
+`<a href="https://google.com>Google.com</a>`
+
 Allez, y faites le teste : copier et coller cette adresse IP dans la barre de recherche et vous atterrirez sur le site de google.com
 
 Donc pour des raison plus pratique, les adresse IP des site web ont toute êtes associé a un nom de domaine, plus pratique à retenir.
+
+> Aucun code n’a zéro défaut.  
+> Mark Zuckerberg
 
 ##### C'est quoi un nom de domaine ?
 
@@ -117,7 +124,8 @@ Un e-mail, une photo, une vidéo, un fichier text ou toute autres donnée numér
 
 #### C'est quoi un paquet ?
 
-Pour une meilleure explication, on va prendre l'exemple d'une image. Vous souhaitez envoyer l'image de votre bébé à votre amie en utilisant un e-mail. Au moment où vous allez télécharger l'image dans l'e-mail, il reste en un seul morceau. Mais à l'instant ou vous appuyer sur "envoyer". Le réseau informatique va découper cette image en de nombreux petits morceaux, ce sont ses morceaux qu'on appelle des paquets. Donc, pour reprendre l'exemple de Gmail et d'ALO, l'expéditeur Gmail va découper l'image en petit paquet pou les envoyer sur le réseau, puis de l'autre côté, ALO va réceptionner ses paquets les uns après les autres, puis ALO va reconstituer l'image pour qu'elle soit comme à l'origine avant de l'expédier a votre amie.
+Pour une meilleure explication, on va prendre l'exemple d'une image. Vous souhaitez envoyer l'image de votre bébé à votre amie en utilisant un e-mail. Au moment où vous allez télécharger l'image dans l'e-mail, il reste en un seul morceau. Mais à l'instant ou vous appuyer sur "envoyer". Le réseau informatique va découper cette image en de nombreux petits morceaux, ce sont ses morceaux qu'on appelle des paquets. Donc, pour reprendre l'exemple de Gmail et d'ALO, l'expéditeur Gmail va découper l'image en petit paquet pou les envoyer sur le réseau, puis de l'autre côté, ALO va réceptionner ses paquets les uns après les autres, puis ALO va reconstituer l'image pour qu'elle soit comme à l'origine avant de l'expédier a votre amie.  
+
 ![Expedition de paquet](img/i.gif "paquet envoyé")
 
 #### Comment ça marche techniquement ?
@@ -133,9 +141,6 @@ Dit autrement, à chaque fois qu'un croisement entre deux chemins de câbles) À
 
 ![Routeur sur le reseau](img/k.gif "Routeur")
 
-
-============================================================================
-============================================================================
 
 #### Envoyer un paquet
 
