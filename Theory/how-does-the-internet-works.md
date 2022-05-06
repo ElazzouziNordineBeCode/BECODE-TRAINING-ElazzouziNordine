@@ -21,7 +21,7 @@ Je vais donc essayer de vous résumer de la manière la plus simple et la plus a
 #### Introduction
 La plupart des gens pensent qu'Internet est un cloud sur lequel tout le monde se connecte, c'est faut : internet n'est pas un cloud. Car un cloud a justement besoin d'Internet pour exister. La réalité est toute autre.
 
-![internet n'est pas un cloud.](/img/a.gif "Cloud internet")
+![internet n'est pas un cloud.](img/a.gif "Cloud internet")
 
 Internet est un réseau filaire (fibre optique), satellitaire (antenne parabolique) ou sans fil (GSM - Tablette - Objet connecté) plein de câble qui parcourt le monde sur terre et dans le fond des mer pour connecter entre eux tous les continents, tous les pays, et tous les gens à travers le monde. Un simple câble qui connecte tout le monde.
 
