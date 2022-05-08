@@ -171,3 +171,4 @@ Actuellement, seulement 10 % de la population mondiale comprend ce fonctionnemen
   
 Merci d'avoir regarder cette presentation.
 
+this theory file has been reviewed by [Senait](https://github.com/seninet)
