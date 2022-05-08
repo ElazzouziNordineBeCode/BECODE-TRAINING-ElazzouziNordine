@@ -1,4 +1,28 @@
 ![Les ordinateurs connectés au monde d'Internet](img/internet.png "Représentation d'Internet")
+<<<<<<< HEAD
+=======
+
+## Présentation du projet
+
+- Nom du projet : comment marche internet
+- Auteur : [Nordine Becode](https://github.com/ElazzouziNordineBeCode) - [Repository](https://github.com/ElazzouziNordineBeCode/BECODE-TRAINING-ElazzouziNordine)
+- Formation réalisée chez : [BeCode](https://becode.org/) à [BeCentral](https://becode.org/fr/a-propos-de-nous/nos-campus/bruxelles/) Bruxelles.
+- Instructeur : [Mike](https://github.com/Mike00001)
+- Contributeur : [Aaron](https://www.youtube.com/channel/UCo_81kKe5qkF0JVsUaJ6fYQ) - [Clideo](https://clideo.com/fr/cut-video) - [ezGIF](https://ezgif.com/)
+
+---------------
+
+## Pourquoi se README ?
+__Dans le cadre d'un exercice__, fait au cours de ma formation pour devenir Fulle Stack Junior Developper, il nous a êtes demander d'exécuter plusieurs actions pour vérifier si on avait bien compris le fonctionnement du terminal, de Git ainsi que de GitHub. Cet exercice a également pour objectif de vérifier si nous avons correctement compris le fonctionnement du langage Markdown, pour être capable par la suite de pouvoir réaliser des README de qualité lorsqu'on travaillera sur de gros projets.
+
+Pour cela, j'ai regardé une courte [video](https://www.youtube.com/watch?v=7_LPdttKXPc) très bien réaliser en anglais par dans lequel il explique ce qu'es Internet. Je me suis donc basé sur cette vidéo pour créer ce README en appliquant tout ce que j'ai appris.
+
+Je vais donc essayer de vous résumer de la manière la plus simple et la plus agréable possible ce qu'est Internet. Commençons par le. Début
+
+-------------------------------
+-------------------------------
+
+>>>>>>> 14657f612c4f14c48452ab2d55207cdc97d44f27
 # Internet, c'est quoi ?
 
 #### Introduction
