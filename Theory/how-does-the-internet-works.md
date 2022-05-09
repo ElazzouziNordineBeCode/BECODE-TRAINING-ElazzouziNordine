@@ -1,55 +1,37 @@
 ![Les ordinateurs connectés au monde d'Internet](img/internet.png "Représentation d'Internet")
 
-## Présentation du projet
-
-- Nom du projet : comment marche internet
-- Auteur : [Nordine Becode](https://github.com/ElazzouziNordineBeCode) - [Repository](https://github.com/ElazzouziNordineBeCode/BECODE-TRAINING-ElazzouziNordine)
-- Formation réalisée chez : [BeCode](https://becode.org/) à [BeCentral](https://becode.org/fr/a-propos-de-nous/nos-campus/bruxelles/) Bruxelles.
-- Instructeur : [Mike](https://github.com/Mike00001)
-- Contributeur : [Aaron](https://www.youtube.com/channel/UCo_81kKe5qkF0JVsUaJ6fYQ) - [Clideo](https://clideo.com/fr/cut-video) - [ezGIF](https://ezgif.com/)
-
----------------
-
-## Pourquoi se README ?
-__Dans le cadre d'un exercice__, fait au cours de ma formation pour devenir Fulle Stack Junior Developper, il nous a êtes demander d'exécuter plusieurs actions pour vérifier si on avait bien compris le fonctionnement du terminal, de Git ainsi que de GitHub. Cet exercice a également pour objectif de vérifier si nous avons correctement compris le fonctionnement du langage Markdown, pour être capable par la suite de pouvoir réaliser des README de qualité lorsqu'on travaillera sur de gros projets.
-
-Pour cela, j'ai regardé une courte [video](https://www.youtube.com/watch?v=7_LPdttKXPc) très bien réaliser en anglais par dans lequel il explique ce qu'es Internet. Je me suis donc basé sur cette vidéo pour créer ce README en appliquant tout ce que j'ai appris.
-
-Je vais donc essayer de vous résumer de la manière la plus simple et la plus agréable possible ce qu'est Internet. Commençons par le. Début
-
--------------------------------
--------------------------------
-
 # Internet, c'est quoi ?
 
 #### Introduction
+
 La plupart des gens pensent qu'Internet est un cloud sur lequel tout le monde se connecte, c'est faut : internet n'est pas un cloud. Car un cloud a justement besoin d'Internet pour exister. La réalité est toute autre.
 
 ![internet n'est pas un cloud.](img/a.gif "Cloud internet")
 
-Internet est un réseau filaire (*fibre optique*), satellitaire (*antenne parabolique*) ou sans fil (*GSM - Tablette - Objet connecté*) plein de câble qui parcourt le monde sur terre et dans le fond des mer pour connecter entre eux tous les continents, tous les pays, et tous les gens à travers le monde. Un simple câble qui connecte tout le monde.
+Internet est un réseau filaire (_fibre optique_), satellitaire (_antenne parabolique_) ou sans fil (_GSM - Tablette - Objet connecté_) plein de câble qui parcourt le monde sur terre et dans le fond des mer pour connecter entre eux tous les continents, tous les pays, et tous les gens à travers le monde. Un simple câble qui connecte tout le monde.
 
 ![internet c'est un cable.](img/b.gif "Cable internet")
 
 ### Principe de fonctionnement d'Internet
 
 Pour pouvoir communiquer, deux personnes ou plus à travers le monde doivent être équipé de ses 3 prérequis :
+
 1. Un appareil
-	- Un GSM
-	- Une Tablette
-	- Un Ordinateur
-	- Un objet connecté avec ou sans fil
+    - Un GSM
+    - Une Tablette
+    - Un Ordinateur
+    - Un objet connecté avec ou sans fil
 2. Un OS
-	- Android
-	- Windows
-	- Linux
-	- Ubuntu
-	- Mac
+    - Android
+    - Windows
+    - Linux
+    - Ubuntu
+    - Mac
 3. Un fournisseur d'accès au réseau
-	- Proximus
-	- Orange
-	- Telenet
-	- VOO
+    - Proximus
+    - Orange
+    - Telenet
+    - VOO
 
 Une fois que vous avez ses trois prérequis, il vous sera possible chacun de votre côté de vous connecter aux files d'Internet pour pouvoir connecter vos deux appareils.
 
@@ -58,7 +40,6 @@ Une fois que vous avez ses trois prérequis, il vous sera possible chacun de vot
 ## Identifier les appareils connectés au réseaux
 
 Pour pouvoir s'y retrouver, chaque appareil ou objet connecté au réseau Internet doit posséder sa propre adresse IP. Les deux lettres I.P signifient : Internet Protocol.
-
 
 ##### C'est quoi un internet protocole ?
 
@@ -127,7 +108,7 @@ Un e-mail, une photo, une vidéo, un fichier text ou toute autres donnée numér
 
 #### C'est quoi un paquet ?
 
-Pour une meilleure explication, on va prendre l'exemple d'une image. Vous souhaitez envoyer l'image de votre bébé à votre amie en utilisant un e-mail. Au moment où vous allez télécharger l'image dans l'e-mail, il reste en un seul morceau. Mais à l'instant ou vous appuyer sur "envoyer". Le réseau informatique va découper cette image en de nombreux petits morceaux, ce sont ses morceaux qu'on appelle des paquets. Donc, pour reprendre l'exemple de Gmail et d'ALO, l'expéditeur Gmail va découper l'image en petit paquet pou les envoyer sur le réseau, puis de l'autre côté, ALO va réceptionner ses paquets les uns après les autres, puis ALO va reconstituer l'image pour qu'elle soit comme à l'origine avant de l'expédier a votre amie.  
+Pour une meilleure explication, on va prendre l'exemple d'une image. Vous souhaitez envoyer l'image de votre bébé à votre amie en utilisant un e-mail. Au moment où vous allez télécharger l'image dans l'e-mail, il reste en un seul morceau. Mais à l'instant ou vous appuyer sur "envoyer". Le réseau informatique va découper cette image en de nombreux petits morceaux, ce sont ses morceaux qu'on appelle des paquets. Donc, pour reprendre l'exemple de Gmail et d'ALO, l'expéditeur Gmail va découper l'image en petit paquet pou les envoyer sur le réseau, puis de l'autre côté, ALO va réceptionner ses paquets les uns après les autres, puis ALO va reconstituer l'image pour qu'elle soit comme à l'origine avant de l'expédier a votre amie.
 
 ![Expedition de paquet](img/i.gif "paquet envoyé")
 
@@ -143,7 +124,6 @@ Un Routeur est un appareil qui est placé à chaque nœud du réseau. Vous et vo
 Dit autrement, à chaque fois qu'un croisement entre deux chemins de câbles) À lieu sur la route (réseau), il y a un agent de circulation (routeur) qui vérifie que les voitures (paquet) arrivent à la bonne destination (Adresse IP).
 
 ![Routeur sur le reseau](img/k.gif "Routeur")
-
 
 #### Envoyer un paquet
 
@@ -163,12 +143,11 @@ Comme vous l'avez sans doute compris, Facebook a bien reçu votre requête (paqu
 
 ![Paquet qui transite au retour](img/m.gif "paquet reçu")
 
-
 ## Conclusion
+
 Vous faites désormais partie du club très fermé dans ce monde qui comprend réellement comment Internet fonctionne, bravo !!
-Actuellement, seulement 10 % de la population mondiale comprend ce fonctionnement. Vous pouvez donc être fière de vous. Vous avez un nouveau sujet de conversation pour briller en société.  
-  
-  
+Actuellement, seulement 10 % de la population mondiale comprend ce fonctionnement. Vous pouvez donc être fière de vous. Vous avez un nouveau sujet de conversation pour briller en société.
 Merci d'avoir regarder cette presentation.
 
 this theory file has been reviewed by [Senait](https://github.com/seninet)
+
