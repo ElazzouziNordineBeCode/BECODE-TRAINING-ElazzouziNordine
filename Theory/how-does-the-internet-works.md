@@ -147,5 +147,7 @@ Comme vous l'avez sans doute compris, Facebook a bien reçu votre requête (paqu
 
 Vous faites désormais partie du club très fermé dans ce monde qui comprend réellement comment Internet fonctionne, bravo !!
 Actuellement, seulement 10 % de la population mondiale comprend ce fonctionnement. Vous pouvez donc être fière de vous. Vous avez un nouveau sujet de conversation pour briller en société.
-
 Merci d'avoir regarder cette presentation.
+
+this theory file has been reviewed by [Senait](https://github.com/seninet)
+
